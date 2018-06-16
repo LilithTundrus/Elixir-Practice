@@ -1,5 +1,8 @@
 # Elixir is weird, variables aren't assigned like normal, they work like algebra
 
+
+# There is no let/var/int to describe variables and have it be ovious what type of
+# variable something is
 a = 1
 
 # This works like normal
