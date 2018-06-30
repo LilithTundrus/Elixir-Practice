@@ -5,3 +5,5 @@
 # Binary literals are enclosed between << and >>
 
 test = <<1, 2, 3>>
+
+
